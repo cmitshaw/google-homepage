@@ -1,0 +1,3 @@
+I'm courtney shaw and I've been studying Web Development, on and off, for about 6 months. It's been exciting and frustrating at times all in one but I love the challenge. 
+
+The Google/HTML was prefect for me bc it forced me to find the solutions to my own problems, rather than being hand held through the entire project. It feels like I'm actually grasping the concepts and language and it makes it even more fun to experiment with different methods and whatnot.
